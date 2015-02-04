@@ -1,5 +1,5 @@
 /**
- * @author Ron Adams (eclip5e@ccs.neu.edu)
+ * @author 0xADADA (github.com@0xadada.pub)
  * @date Created November 28, 2003
  * @see ConnectFour
  * This class its the GUI application for the ConnectFour AI
