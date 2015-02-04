@@ -3,7 +3,7 @@ Artificial Intelligence Smart Connect Four
 
 ## A Connect Four Playing AI Agent: Algorithm and Creation Process
 
-[Ron. Adams](mailto:eclip5e@ccs.neu.edu),
+[0xADADA](mailto:github.com@0xadada.pub),
 [Erik Ibsen](mailto:eibsen@ccs.neu.edu),
 [Zhang Chen](mailto:chen@ccs.neu.edu)
 
