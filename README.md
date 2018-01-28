@@ -7,7 +7,7 @@ Artificial Intelligence Smart Connect Four
 [Erik Ibsen](mailto:eibsen@ccs.neu.edu),
 [Zhang Chen](mailto:chen@ccs.neu.edu)
 
-### [Download project documentation / White Paper](SmartConnectFour-Final_Paper-v1.0.doc)
+### [White Paper](https://0xadada.pub/2003/12/15/connect-four-playing-ai-agent/)
 
 ### Screen shot
 ![screen shot](screen.gif)
